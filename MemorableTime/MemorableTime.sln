@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemorableTime", "MemorableTime\MemorableTime.csproj", "{A9D110A2-403E-4F8D-8CE6-25A89C3D0709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemorableTime.Tests", "MemorableTime.Tests\MemorableTime.Tests.csproj", "{0A70F4A3-7D72-4483-8100-529EF7B8E7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D110A2-403E-4F8D-8CE6-25A89C3D0709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D110A2-403E-4F8D-8CE6-25A89C3D0709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D110A2-403E-4F8D-8CE6-25A89C3D0709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D110A2-403E-4F8D-8CE6-25A89C3D0709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A70F4A3-7D72-4483-8100-529EF7B8E7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A70F4A3-7D72-4483-8100-529EF7B8E7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A70F4A3-7D72-4483-8100-529EF7B8E7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A70F4A3-7D72-4483-8100-529EF7B8E7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

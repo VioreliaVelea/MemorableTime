@@ -155,6 +155,10 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{5a3e8507-fce4-411e-bd17-ccb004fd122f}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Utility\Utility.csproj">
       <Project>{20c0ba7c-f250-43bd-b34b-3e17ab7e7049}</Project>
       <Name>Utility</Name>
